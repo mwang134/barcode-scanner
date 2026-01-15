@@ -1,0 +1,43 @@
+Workflow
+Vendor ships container on site
+Includes a invoice for the container
+Manually take out the accessories and sort them
+Doublecheck if the amount is what is said on invoice (notes what are miss counted or incorrect)
+Next create a PO for the transaction -> key in item number
+Create item receipt
+Automactially updates into quickbook inventory  
+
+Workflow for seller
+_____________
+
+Two separate things
+	1.	non online order 
+	2.	Online order
+
+	1.	Customer messages what they want in mind
+	2.	Lily has to display the different design for the specific cases customer has in mind as a picture
+	3.	Customer writes down what they want based on the picture
+	4.	Lily creates a sales order
+	5.	Key in which is in stock or not
+	6.	Creates item receipt
+	7.	Creates invoice for those that are in stock
+	8.	Emails to the customer the invoice
+	9.	Lily gets the items requested
+	10.	Double check if items are counted correctly
+	11.	package items up
+	12.	Ship package to their designated location along with the paper invoice too
+
+	1.	Customer makes an online order on website
+	2.	Print it so that Lily has to find it in warehouse
+	3.	Manually check if items are in stock (makes note for items not in stock)
+	4.	Create sales order after collecting items in warehouse
+	5.	Create item receipt
+	6.	Create invoice
+	7.	Email customer the invoice
+	8.	Double check items are correctly counted
+	9.	Package items up
+	10.	Ship package to their designated location along with paper invoice 
+
+
+
+
